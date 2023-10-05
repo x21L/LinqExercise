@@ -22,4 +22,4 @@ Iteriere die Liste und gib den Namen des Films aus.
 
 # Linq
 
-Implementiere die Methoden Program.cs
+Implementiere die Methoden FilmOperations.cs und teste sie in Program.cs
